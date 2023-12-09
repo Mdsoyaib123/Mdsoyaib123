@@ -3,10 +3,8 @@
 - 🌱 I’m currently learning  Mongoose
 - 🤔 I’m  exploring - Advance motion graphics for web 
 - 👯 I’m looking - To collaborate on open source projects
-- 💬 Ask me about ...
-- 📫 How to reach me: mdsoyaibsourav@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me : mdsoyaibsourav@gmail.com
+- ⚡ Fun fact: I love to make complex origami and I can speak 4 languages
 
 
 # Current stats
