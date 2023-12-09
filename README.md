@@ -1,4 +1,4 @@
-<!-- ![Albuquerque, New Mexico]() -->
+![Albuquerque, New Mexico](/Add%20a%20heading%20(2).png)
 
 - 🌱 I’m currently learning Mongoose
 - 🤔 I’m exploring - Advance motion graphics for web
