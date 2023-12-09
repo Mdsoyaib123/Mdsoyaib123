@@ -16,7 +16,7 @@
 # Reach me out
 <a href="https://www.linkedin.com/in/md-soyaib-hossain-sourov-9b75a92a0">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+</a> &nbsp 
 <a href="https://github.com/Mdsoyaib123">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
