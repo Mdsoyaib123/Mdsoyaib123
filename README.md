@@ -13,3 +13,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mdsoyaib123&theme=dark)](https://git.io/streak-stats)
 
+# Technology that I know
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,mongodb,firebase,tailwind,html,css)](https://skillicons.dev)
+
+
