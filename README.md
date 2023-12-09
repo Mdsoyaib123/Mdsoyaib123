@@ -1,4 +1,4 @@
-![Albuquerque, New Mexico](/sourav.jpg)
+
 
 - 🌱 I’m currently learning Mongoose
 - 🤔 I’m exploring - Advance motion graphics for web
