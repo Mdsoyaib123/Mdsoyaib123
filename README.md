@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 
 
+# Current stats
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mdsoyaib123)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mdsoyaib123&theme=dark)](https://git.io/streak-stats)
 
