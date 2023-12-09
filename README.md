@@ -1,4 +1,4 @@
-
+<!-- ![Albuquerque, New Mexico]() -->
 
 - 🌱 I’m currently learning Mongoose
 - 🤔 I’m exploring - Advance motion graphics for web
@@ -16,12 +16,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mdsoyaib123&theme=dark)](https://git.io/streak-stats)
 
 # Reach me out
-<a href="https://www.linkedin.com/in/md-soyaib-hossain-sourov-9b75a92a0">
+<p align='center'><a href="https://www.linkedin.com/in/md-soyaib-hossain-sourov-9b75a92a0">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a> &nbsp 
 <a href="https://github.com/Mdsoyaib123">
 <img src="https://skillicons.dev/icons?i=github" />
-</a>
+</a></p>
 
 
 
