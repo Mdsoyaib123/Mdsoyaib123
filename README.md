@@ -1,4 +1,4 @@
-![Albuquerque, New Mexico]()
+![Albuquerque, New Mexico](/Add%20a%20heading%20(9).png)
 
 # Overview 
 - 🌱 I’m currently learning Mongoose
