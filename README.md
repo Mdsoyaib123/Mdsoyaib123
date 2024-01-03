@@ -14,10 +14,6 @@ Skills:  REACT / JS / EXPRESS / NODE /MONGODB / HTML / CSS
 - 📫 How to reach me: mdsoyaibsourav@gmail.com 
 - ⚡ Fun fact: I love to make complex origami and I can speak 4 languages 
 
-# Current stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mdsoyaib123&theme=algolia)](https://git.io/streak-stats)
-
 
 
 # Reach me out
@@ -28,3 +24,9 @@ Skills:  REACT / JS / EXPRESS / NODE /MONGODB / HTML / CSS
 # Technology that I know
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,mongodb,firebase,tailwind,html,css)](https://skillicons.dev)
+
+# Current stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mdsoyaib123&theme=algolia)](https://git.io/streak-stats)
+
+
