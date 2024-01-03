@@ -17,7 +17,12 @@ I am a dedicated web developer, with a focus on front-end development. I have ex
 
 
 # Reach me out
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mdsoyaib123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-soyaib-hossain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdsoyaib.hossain.77)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://keen-daffodil-f5922b.netlify.app/) 
+<a href="https://www.linkedin.com/in/md-soyaib-hossain-sourov-9b75a92a0">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a> &nbsp 
+<a href="https://github.com/Mdsoyaib123">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 
 
 
