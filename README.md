@@ -29,5 +29,4 @@ I am a dedicated web developer, with a focus on front-end development. I have ex
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mdsoyaib123&theme=algolia)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdsoyaib123&show_icons=true)  
 
