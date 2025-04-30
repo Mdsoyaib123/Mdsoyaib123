@@ -3,7 +3,7 @@
 #### I am a Web developer 
 
 
-I am a dedicated web developer, with a focus on front-end development. I have expertise in various technologies such as HTML/HTML5, CSS/CSS3, Tailwind CSS, JavaScript, Firebase, React.js, JWT, Express.js, Node.js, and MongoDB. This enables me to bring a diverse skill set to develop effective and engaging web applications.I provide services in communication, research, LinkedIn lead generation, and social media management. Client satisfaction is my top priority. I am self-motivated, versatile, and work well in a team
+I am a dedicated web developer, with a focus on front-end development. I have expertise in various technologies such as HTML/HTML5, CSS/CSS3, Tailwind CSS, JavaScript, Firebase, React.js, Next.js, JWT, Express.js, Node.js, and MongoDB. This enables me to bring a diverse skill set to develop effective and engaging web applications.I provide services in communication, research, LinkedIn lead generation, and social media management. Client satisfaction is my top priority. I am self-motivated, versatile, and work well in a team
 
 
 
