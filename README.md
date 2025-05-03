@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQFLBHYAZeeWEA/profile-displaybackgroundimage-shrink_350_1400/0/1702180754956?e=1709769600&v=beta&t=6oEEZXMaBI7wQg7DrKO3yEslyJ0qyt_dSPKt4M0nd-s)
+![I am GitHub Readme Generator's creator](file:///C:/Users/HP/Downloads/cover%20img.png)
 ### Hi there 👋, I'm Soyaib Hossain 
 #### I am a Web developer 
 
