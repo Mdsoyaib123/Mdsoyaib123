@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](file:///C:/Users/HP/Downloads/cover%20img.png)
+![I am GitHub Readme Generator's creator](https://imgpile.com/p/5eKmrUd#8keZsN1)
 ### Hi there 👋, I'm Soyaib Hossain 
 #### I am a Web developer 
 
