@@ -3,8 +3,6 @@
 #### I am a Web developer 
 
 
-I am a dedicated web developer, with a focus on front-end development. I have expertise in various technologies such as HTML/HTML5, CSS/CSS3, Tailwind CSS, JavaScript, Firebase, React.js, Next.js, JWT, Express.js, Node.js, and MongoDB. This enables me to bring a diverse skill set to develop effective and engaging web applications.I provide services in communication, research, LinkedIn lead generation, and social media management. Client satisfaction is my top priority. I am self-motivated, versatile, and work well in a team
-
 <p>👋 Hello! I'm Soyaib Hossain , a passionate Web Developer specializing in the MERN stack. With 2 years of learning experience in the development realm, I thrive on crafting innovative solutions and bringing ideas to life through code. Currently I am study on Diploma in Engineering in Compute Science
 
 🚀 My expertise lies in harnessing the power of JavaScript and its associated technologies . I build so many project using the technology. I'm always exploring new tools and frameworks to sharpen my skills and stay ahead in the fast-paced world of web development.</p>
