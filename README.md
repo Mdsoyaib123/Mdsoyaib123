@@ -16,12 +16,16 @@
 
 
 # Reach me out
-<a href="https://www.linkedin.com/in/md-soyaib-hossain-sourov-9b75a92a0">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/md-soyaib-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-soyaib-hossain" height="30" width="40" /></a>
+</p>
+<!-- <a href="https://www.linkedin.com/in/md-soyaib-hossain-sourov-9b75a92a0">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a> &nbsp 
 <a href="https://github.com/Mdsoyaib123">
 <img src="https://skillicons.dev/icons?i=github" />
-</a>
+</a> -->
 
 
 
