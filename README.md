@@ -1,22 +1,21 @@
-![Albuquerque, New Mexico](/sourav.png)
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQFLBHYAZeeWEA/profile-displaybackgroundimage-shrink_350_1400/0/1702180754956?e=1709769600&v=beta&t=6oEEZXMaBI7wQg7DrKO3yEslyJ0qyt_dSPKt4M0nd-s)
+### Hi there 👋, I'm Soyaib Hossain 
+#### I am a Web developer 
 
-# Overview 
-- 🌱 I’m currently learning Mongoose
-- 🤔 I’m exploring - Advance motion graphics for web
-- 👯 I’m looking - To collaborate on open source projects
-- 📫 How to reach me : mdsoyaibsourav@gmail.com
-- ⚡ Fun fact: I love to make complex origami and I can speak 4 languages
-<!-- TODO 1 -->
 
-# About me
+I am a dedicated web developer, with a focus on front-end development. I have expertise in various technologies such as HTML/HTML5, CSS/CSS3, Tailwind CSS, JavaScript, Firebase, React.js, Next.js, JWT, Express.js, Node.js, and MongoDB. This enables me to bring a diverse skill set to develop effective and engaging web applications.I provide services in communication, research, LinkedIn lead generation, and social media management. Client satisfaction is my top priority. I am self-motivated, versatile, and work well in a team
 
 <p>👋 Hello! I'm Soyaib Hossain , a passionate Web Developer specializing in the MERN stack. With 2 years of learning experience in the development realm, I thrive on crafting innovative solutions and bringing ideas to life through code. Currently I am study on Diploma in Engineering in Compute Science
 
 🚀 My expertise lies in harnessing the power of JavaScript and its associated technologies . I build so many project using the technology. I'm always exploring new tools and frameworks to sharpen my skills and stay ahead in the fast-paced world of web development.</p>
 
-# Current stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mdsoyaib123&theme=algolia)](https://git.io/streak-stats)
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Mongoose 
+- 👯 I’m looking to collaborate on  open source projects 
+- 💬 Ask me about Web development  
+- 📫 How to reach me: mdsoyaibsourav@gmail.com 
+- ⚡ Fun fact: I love to make complex origami and I can speak 4 languages 
 
 
 
@@ -36,6 +35,10 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) !
 
 
+
+# Current stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mdsoyaib123&theme=algolia)](https://git.io/streak-stats)
 
 
 
