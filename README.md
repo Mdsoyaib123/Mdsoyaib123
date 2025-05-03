@@ -1,4 +1,4 @@
-![Cover Image](cover%20img.png)
+![Cover Image](./cover%20img.png)
 ### Hi there 👋, I'm Soyaib Hossain 
 #### I am a Web developer 
 
