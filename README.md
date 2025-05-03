@@ -8,12 +8,12 @@
 🚀 My expertise lies in harnessing the power of JavaScript and its associated technologies . I build so many project using the technology. I'm always exploring new tools and frameworks to sharpen my skills and stay ahead in the fast-paced world of web development.</p>
 
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Mongoose 
+- 🔭 I’m currently working on something cool. 
+- 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on  open source projects 
 - 💬 Ask me about Web development  
 - 📫 How to reach me: mdsoyaibsourav@gmail.com 
-- ⚡ Fun fact: I love to make complex origami and I can speak 4 languages 
+- ⚡ Fun fact: I love to make complex origami and I can speak 3 languages 
 
 
 
