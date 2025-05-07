@@ -33,7 +33,7 @@
 
 # Current stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mdsoyaib123&theme=algolia)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mdsoyaib123&theme=algolia&date=20250507)
 
 
 
