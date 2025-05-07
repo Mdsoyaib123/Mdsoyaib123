@@ -33,7 +33,7 @@
 
 # Current stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mdsoyaib123&theme=algolia)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mdsoyaib123&theme=algolia)](https://git.io/streak-stats)
 
 
 
