@@ -102,10 +102,10 @@
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emon-webdev&show_icons=true&locale=en&layout=compact" alt="emon-webdev" />
        </td> -->
         <td>
-              <img src='https://github-readme-stats.vercel.app/api?username=emon-webdev&show_icons=true&locale=en' alt="emon-webdev" />
+              <img src='https://github-readme-stats.vercel.app/api?username=Mdsoyaib123&show_icons=true&locale=en' alt="Mdsoyaib123" />
                 <br/>
                 <br/>
-              <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emon-webdev" alt="emon-webdev" />
+              <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mdsoyaib123" alt="Mdsoyaib123" />
        </td>
       </tr>
     </tbody>
