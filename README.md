@@ -172,14 +172,7 @@
         <td><a href="https://github.com/emon-webdev/car-showroom" target="_blank">Client Link</a></td>
         <td><a href="https://github.com/emon-webdev/car-showroom-server" target="_blank">Server Link</a></td>
       </tr>
-       <tr>
-        <th>6</th>
-        <td>Cleaning Services</td>
-        <td>Cleaning Services (MERN-STACK) (using: Mern stack Project)</td>
-        <td><a href="https://cleaning-service-9d61e.web.app/" target="_blank">Live Link</a></td>
-        <td><a href="https://github.com/emon-webdev/cleaning-service" target="_blank">Client Link</a></td>
-        <td><a href="https://github.com/emon-webdev/cleaning-service-server" target="_blank">Server Link</a></td>
-      </tr>
+       
     </tbody>
   </table>
 </div>
