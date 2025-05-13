@@ -39,16 +39,16 @@
 
 
 
-﻿## Hi there my gorgeous friend .I'm Soyaib Hossain as a Junior Software Developer.
+<!-- ﻿## Hi there my gorgeous friend .I'm Soyaib Hossain as a Junior Software Developer. -->
 
 ![Github Banner](cover%20img.png)
 
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emon-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="emon-webdev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emon-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="soyaib-hossain" /> </p>
 
 <!--####My name is Emon Hossain. Description____.-->
 
-<p>👋 Hello! I'm Soyaib Hossain , a passionate Web Developer specializing in the MERN stack. With 2 years of learning experience in the development realm, I thrive on crafting innovative solutions and bringing ideas to life through code. Currently I am study on Diploma in Engineering in Compute Science.🚀 My expertise lies in harnessing the power of JavaScript and its associated technologies . I build so many project using the technology. I'm always exploring new tools and frameworks to sharpen my skills and stay ahead in the fast-paced world of web development.</p>
+<p>👋 Hello! I'm Soyaib Hossain , a passionate Web Developer specializing in the Full stack. With 2 years of learning experience in the development realm, I thrive on crafting innovative solutions and bringing ideas to life through code. Currently I am study on Diploma in Engineering in Compute Science.🚀 My expertise lies in harnessing the power of JavaScript and its associated technologies . I build so many project using the technology. I'm always exploring new tools and frameworks to sharpen my skills and stay ahead in the fast-paced world of web development.</p>
 
 ## 🌐 Socials: Connect with me!
 
@@ -98,9 +98,9 @@
     <tbody>
       <!-- row 1 -->
       <tr>
-         <td>
+         <!-- <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emon-webdev&show_icons=true&locale=en&layout=compact" alt="emon-webdev" />
-       </td>
+       </td> -->
         <td>
               <img src='https://github-readme-stats.vercel.app/api?username=emon-webdev&show_icons=true&locale=en' alt="emon-webdev" />
                 <br/>
