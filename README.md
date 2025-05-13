@@ -156,23 +156,6 @@
         <td><a href="https://github.com/emon-webdev/Capital-Trust-Bank" target="_blank">Client Link</a></td>
         <td><a href="https://github.com/AkashChakrabortty/Capital-Trust-Bank-Server" target="_blank">Server Link</a></td>
       </tr>
-      <tr>
-        <th>4</th>
-        <td>yayfly </td>
-        <td>yayfly (using: React.js, Material UI (contribute with another person))</td>
-        <td><a href="https://yayfly-app.netlify.app/" target="_blank">Live Link</a></td>
-        <td><a href="https://github.com/emon-webdev/yayfly-app" target="_blank">Client Link</a></td>
-        <td><a href="just front end" target="_blank">Server Link</a></td>
-      </tr>
-       <tr>
-        <th>5</th>
-        <td>Car Showroom</td>
-        <td>Car Resell Website (MERN-STACK) (User can) (using: Mern stack Project)</td>
-        <td><a href="https://car-resell-web.web.app/" target="_blank">Live Link</a></td>
-        <td><a href="https://github.com/emon-webdev/car-showroom" target="_blank">Client Link</a></td>
-        <td><a href="https://github.com/emon-webdev/car-showroom-server" target="_blank">Server Link</a></td>
-      </tr>
-       
     </tbody>
   </table>
 </div>
