@@ -39,7 +39,7 @@
 
 
 
-﻿## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi"> I'm Emon Hossain as a Junior Software Developer.
+﻿## Hi there my gorgeous friend .I'm Soyaib Hossain as a Junior Software Developer.
 
 ![Github Banner](cover%20img.png)
 
