@@ -41,7 +41,7 @@
 
 ﻿## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi"> I'm Emon Hossain as a Junior Software Developer.
 
-![Github Banner](assets/emonBg.png)
+![Github Banner](cover%20img.png)
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emon-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="emon-webdev" /> </p>
