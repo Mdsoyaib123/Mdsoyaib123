@@ -133,28 +133,28 @@
       <!-- row 1 -->
       <tr>
         <th>1</th>
-        <td>Soulmate</td>
-        <td>Matrimonial Website (MERN-STACK) (Using: NextJs, Redux-Toolkit, NodeJs, ExpressJs, Mongoose, Material UI & so many packages)</td>
-        <td><a href="https://soulmate-metrimony.vercel.app" target="_blank">Live Link</a></td>
-        <td><a href="https://github.com/emon-webdev/soulmate" target="_blank">Client Link</a></td>
-        <td><a href="https://github.com/emon-webdev/soulmate-server" target="_blank">Server Link</a></td>
+        <td>TutorLink</td>
+        <td>Tutor finding Website (FULL-STACK) (Using: NextJs, Redux-Toolkit, NodeJs, ExpressJs, Mongoose, Shadcn UI & so many packages)(Team Project: Number of team members was 6 people. The duration was seven weeks.)</td>
+        <td><a href="https://tutor-link-frontend-phi.vercel.app" target="_blank">Live Link</a></td>
+        <td><a href="https://github.com/Mdsoyaib123/tutor-link-frontend" target="_blank">Client Link</a></td>
+        <td><a href="https://github.com/Mdsoyaib123/tutor-link-backend" target="_blank">Server Link</a></td>
       </tr>
       <!-- row 1 -->
       <tr>
         <th>2</th>
-        <td>The Cake Stand</td>
-        <td>Restaurant Website (MERN-STACK) (Using: ReactJs, Redux-Toolkit, Node, ExpressJs, Mongoose, Tailwind & so many packages)</td>
-        <td><a href="https://the-cake-stand.web.app/" target="_blank">Live Link</a></td>
-        <td><a href="https://github.com/emon-webdev/the-cake-stand" target="_blank">Client Link</a></td>
-        <td><a href="https://github.com/emon-webdev/The-Cake-Stand-Server" target="_blank">Server Link</a></td>
+        <td>Book Store</td>
+        <td>Book Management Website (FULL-STACK) (Using: ReactJs, Redux-Toolkit, Node, ExpressJs, Mongoose, MongoDB, Tailwind & so many packages)(Team Project: Number of team members was 6 people. The duration was three weeks.)</td>
+        <td><a href="https://book-shop-frontend-vert.vercel.app" target="_blank">Live Link</a></td>
+        <td><a href="https://github.com/bdshakhawat/book-shop-frontend/tree/devsoyaib" target="_blank">Client Link</a></td>
+        <td><a href="https://github.com/bdshakhawat/book-shop-backend/tree/devsoyab-auth" target="_blank">Server Link</a></td>
       </tr>
       <tr>
         <th>3</th>
-        <td>Capital Trust Bank</td>
-        <td>Banking Website (MERN-STACK) (Team Project: Number of team members was 6 people. The duration was seven weeks.)</td>
-        <td><a href="https://capital-trust-bank-ee791.web.app/" target="_blank">Live Link</a></td>
-        <td><a href="https://github.com/emon-webdev/Capital-Trust-Bank" target="_blank">Client Link</a></td>
-        <td><a href="https://github.com/AkashChakrabortty/Capital-Trust-Bank-Server" target="_blank">Server Link</a></td>
+        <td>Sofiya Hotel</td>
+        <td>Hotel Management Website (MERN-STACK)  (Using: ReactJs, Node, ExpressJs,  MongoDB, Tailwind & so many packages)</td>
+        <td><a href="https://the-hotel-room.web.app" target="_blank">Live Link</a></td>
+        <td><a href="https://github.com/Mdsoyaib123/Sofiya-Hotel" target="_blank">Client Link</a></td>
+        <td><a href="https://github.com/Mdsoyaib123/Sofiya-Hotel-server" target="_blank">Server Link</a></td>
       </tr>
     </tbody>
   </table>
@@ -171,20 +171,6 @@
 - ⚡ Fun fact: ...
  
  
- <details>
-
-<summary>
-  You wanna know more about me?
-</summary>
-
-<br >
-
-#### ?
-
-#### Github Stats
-
-</details>
-
 <h2>❤️ Thank you very much! ❤️</h2>
 
 
