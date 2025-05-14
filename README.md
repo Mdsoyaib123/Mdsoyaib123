@@ -58,12 +58,11 @@
     <tbody>
       <!-- row 1 -->
       <tr>
-        <td>
-              <img src='https://github-readme-stats.vercel.app/api?username=Mdsoyaib123&show_icons=true&locale=en' alt="Mdsoyaib123" />
-                <br/>
-                <br/>
-              <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mdsoyaib123" alt="Mdsoyaib123" />
-       </td>
+       <td>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mdsoyaib123&show_icons=true&locale=en" alt="GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mdsoyaib123" alt="GitHub Streak Stats" />
+</td>
       </tr>
     </tbody>
   </table>
