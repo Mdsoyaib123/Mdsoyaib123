@@ -59,9 +59,9 @@
       <!-- row 1 -->
       <tr>
        <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mdsoyaib123&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mdsoyaib123&show_icons=true&locale=en&cache_seconds=86400" alt="GitHub Stats" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mdsoyaib123" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mdsoyaib123&cache_seconds=86400" alt="GitHub Streak Stats" />
 </td>
       </tr>
     </tbody>
