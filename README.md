@@ -1,7 +1,7 @@
 
 <!-- ﻿## Hi there my gorgeous friend .I'm Soyaib Hossain as a Junior Software Developer. -->
 
-![Github Banner](github-img.png)
+![Github Banner](cover_img1.png)
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emon-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="soyaib-hossain" /> </p>
@@ -58,12 +58,11 @@
     <tbody>
       <!-- row 1 -->
       <tr>
-        <td>
-              <img src='https://github-readme-stats.vercel.app/api?username=Mdsoyaib123&show_icons=true&locale=en' alt="Mdsoyaib123" />
-                <br/>
-                <br/>
-              <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mdsoyaib123" alt="Mdsoyaib123" />
-       </td>
+       <td>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mdsoyaib123&show_icons=true&locale=en" alt="GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mdsoyaib123" alt="GitHub Streak Stats" />
+</td>
       </tr>
     </tbody>
   </table>
