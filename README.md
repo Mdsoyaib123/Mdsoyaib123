@@ -1,7 +1,7 @@
 
 <!-- ﻿## Hi there my gorgeous friend .I'm Soyaib Hossain as a Junior Software Developer. -->
 
-![Github Banner](github-img.png)
+![Github Banner](cover_img1.png)
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emon-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="soyaib-hossain" /> </p>
