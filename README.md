@@ -4,7 +4,7 @@
 ![Github Banner](cover_img1.png)
 
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emon-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="soyaib-hossain" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emon-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="soyaib" /> </p>
 
 <!--####My name is Soyaib Hossain. Description____.-->
 
