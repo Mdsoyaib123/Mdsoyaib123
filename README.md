@@ -8,7 +8,7 @@
 
 <!--####My name is Soyaib Hossain. Description____.-->
 
-<p>👋 Hello! I'm  Soyaib Hossain , a passionate Web Developer specializing in the Full stack. With 2 years of learning experience in  the development realm, I thrive on crafting  innovative solutions and bringing ideas to life through code. Currently I am study on Diploma in Engineering in Compute Science.🚀 My expertise lies in harnessing the power of JavaScript and its associated technologies . I build so many project using the technology. I'm always exploring new tools and frameworks to sharpen my skills and stay ahead in the fast-paced world of web development.</p>
+<p>👋 Hello! I'm  Soyaib Hossain , a passionate Web Developer specializing in the Full stack. With 2 years of learning experience in  the development realm, I thrive on crafting  innovative  solutions and bringing ideas to life through code. Currently I am study on Diploma in Engineering in Compute Science.🚀 My expertise lies in harnessing the power of JavaScript and its associated technologies . I build so many project using the technology. I'm always exploring new tools and frameworks to sharpen my skills and stay ahead in the fast-paced world of web development.</p>
 
 ## 🌐 Socials: Connect with me!
 
