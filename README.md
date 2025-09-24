@@ -53,20 +53,22 @@
 
 ## 💻Current Status
 
-<div class="overflow-x-auto">
-  <table class="table w-full">
-    <tbody>
-      <!-- row 1 -->
-      <tr>
-       <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mdsoyaib123&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mdsoyaib123" alt="GitHub Streak Stats" />
-</td>
-      </tr>
-    </tbody>
-  </table>
+<div class="overflow-x-auto flex flex-col items-center space-y-6 p-4 bg-white rounded-xl shadow">
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Mdsoyaib123&show_icons=true&locale=en" 
+    alt="GitHub Stats"
+    class="max-w-full rounded-lg shadow-md"
+  />
+
+  <!-- GitHub Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Mdsoyaib123" 
+    alt="GitHub Streak Stats"
+    class="max-w-full rounded-lg shadow-md"
+  />
 </div>
+
 
 
 
