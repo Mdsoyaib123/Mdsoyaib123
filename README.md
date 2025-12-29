@@ -52,21 +52,11 @@
 
 ## 💻Current Status
 
-<div class="w-full overflow-x-auto flex flex-col items-center gap-6 p-6 bg-white dark:bg-gray-900 rounded-2xl shadow-lg">
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mdsoyaib123&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-    class="w-full max-w-xl rounded-xl shadow-md"
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=Mdsoyaib123&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
 
-  <!-- GitHub Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Mdsoyaib123&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak Stats"
-    class="w-full max-w-xl rounded-xl shadow-md"
-  />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdsoyaib123&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mdsoyaib123&theme=default" alt="GitHub Streak" />
 
 
 
