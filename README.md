@@ -52,21 +52,22 @@
 
 ## 💻Current Status
 
-<div class="overflow-x-auto flex flex-col items-center space-y-6 p-4 bg-white rounded-xl shadow">
+<div class="w-full overflow-x-auto flex flex-col items-center gap-6 p-6 bg-white dark:bg-gray-900 rounded-2xl shadow-lg">
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mdsoyaib123&show_icons=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=Mdsoyaib123&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
-    class="max-w-full rounded-lg shadow-md"
+    class="w-full max-w-xl rounded-xl shadow-md"
   />
 
   <!-- GitHub Streak Stats -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Mdsoyaib123" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Mdsoyaib123&theme=tokyonight&hide_border=true"
     alt="GitHub Streak Stats"
-    class="max-w-full rounded-lg shadow-md"
+    class="w-full max-w-xl rounded-xl shadow-md"
   />
 </div>
+
 
 
 
