@@ -57,7 +57,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdsoyaib123&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mdsoyaib123&theme=default" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mdsoyaib123)](https://git.io/streak-stats)
 
 ## 💻 My Projects
 
