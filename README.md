@@ -58,7 +58,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdsoyaib123&layout=compact&theme=github_dark" />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mdsoyaib123&theme=tokyonight" alt="Mdsoyaib123" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mdsoyaib123" alt="GitHub Streak" /></a>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">📈 GitHub Activity:</h2>
