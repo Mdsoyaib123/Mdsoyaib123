@@ -64,7 +64,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mdsoyaib123" alt="GitHub Streak" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">📈 GitHub Activity:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mdsoyaib123&theme=tokyonight"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mdsoyaib123&theme=github-dark"/>
 
 ## 💻 My Projects
 
