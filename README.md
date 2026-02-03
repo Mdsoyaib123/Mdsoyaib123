@@ -54,13 +54,8 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mdsoyaib123&show_icons=true&count_private=true&theme=github_dark" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdsoyaib123&layout=compact&theme=github_dark" />
-
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mdsoyaib123" alt="GitHub Streak" /></a>
 
-<a href="http://www.github.com/Mdsoyaib123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mdsoyaib123&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">📈 GitHub Activity:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mdsoyaib123&theme=github-dark"/>
