@@ -52,7 +52,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-## 💻Current Status
+## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mdsoyaib123&show_icons=true&count_private=true&theme=github-dark" alt="GitHub İstatistikleri" />
 
