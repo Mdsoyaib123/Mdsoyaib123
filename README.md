@@ -65,6 +65,8 @@
   <img src="https://streak-stats.demolab.com/?user=Mdsoyaib123&theme=tokyo-night" alt="GitHub Streak" />
 </p>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mdsoyaib123" alt="GitHub Streak" /></a>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mdsoyaib123&show_icons=true&theme=github_dark" />
 </p>
