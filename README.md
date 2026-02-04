@@ -62,7 +62,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mdsoyaib123" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Mdsoyaib123&theme=tokyo-night" alt="GitHub Streak" />
 </p>
 
 <p align="center">
