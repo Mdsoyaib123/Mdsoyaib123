@@ -65,13 +65,6 @@
   <img src="https://streak-stats.demolab.com/?user=Mdsoyaib123&theme=tokyo-night" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mdsoyaib123"  />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdsoyaib123&layout=compact&theme=github_dark" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">📈 GitHub Activity:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mdsoyaib123&theme=tokyo-night"/>
