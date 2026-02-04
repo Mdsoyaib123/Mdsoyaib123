@@ -62,7 +62,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mdsoyaib123&theme=default" alt="Mdsoyaib123 GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=Mdsoyaib123&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">📈 GitHub Activity:</h2>
