@@ -12,11 +12,8 @@
 
 Hi there, I'm Soyaib Hossain 👋
 
-Full Stack Developer passionate about building scalable, secure, and high-performance web applications. Skilled in React.js, Next.js, Node.js, Express.js, TypeScript, MongoDB, PostgreSQL, and MySQL.
-
-Currently pursuing a Diploma in Engineering in Computer Science and continuously learning modern backend architecture, system design, and cloud technologies.
-
-I enjoy turning ideas into production-ready applications and solving real-world problems through clean and maintainable code.
+Full Stack Developer focused on building scalable, secure, and high-performance web applications using React.js, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, and MySQL.
+I have completed my Diploma in Engineering in Computer Science and am currently pursuing a B.Sc. in Computer Science & Engineering. Passionate about backend development, system design, and building production-ready software solutions.
 
 
 ## 🌐 Socials:
